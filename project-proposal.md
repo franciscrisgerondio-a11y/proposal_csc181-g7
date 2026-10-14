@@ -29,8 +29,8 @@ or an assumption.]
 | [Name] | [Idea 4] | [Group] | [Approach] | [Basis] |
 | [Name] | [Idea 5] | [Group] | [Approach] | [Basis] |
 | [Name] | [Idea 6] | [Group] | [Approach] | [Basis] |
-| Gian Christian S. Bonilla | [Idea 7] | [Group] | [Approach] | [Basis] |
-| Gian Christian S. Bonilla | [Idea 8] | [Group] | [Approach] | [Basis] |
+| Gian Christian S. Bonilla | Shoppers want to save when they want to buy something. That applies to every scenario, especially in online shopping, where prices are volatile depending on the sale season. Some shoppers wait for that point in time where their wishlisted product drops to a low price, then they will decide to make the purchase. Nowadays, the prices in online shopping platforms are not only dictated by their listing price, but also their vouchers accompanying them in the platform. | Online shoppers | Alongside with the fact that botting is actively being prevented in most shopping platforms, a client-side app that automatically records checkout prices when shoppers are just browsing may prove useful. Because these prices vary based on what vouchers the users own and its listing price at the current time of browsing, a snapshot of that data at that point of time might be the only method to collect these information. These data are then collected and organized into applicable graphs for the user's needs. Ultimately, instead of noting down prices on products the shopper has an interest on, this app will do it automatically on every product the shopper visits.| Experience |
+| Gian Christian S. Bonilla | The elderly and novice users have difficulty learning the basics of using smart mobile devices. | Elderly and Novice Users | By building an engaging and intuitive educational tutorial app that covers all the basics (touchscreen gestures, physical button control, typing confidence), it will lead to a potential of an app that is duly appreciated when handing out to novice users. In fact, this described software should come with every phone when newly bought. | Observation |
 
 ## 2. Candidate Comparison and Selection
 
